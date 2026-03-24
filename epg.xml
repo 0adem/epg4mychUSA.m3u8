@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Gemini_EPG_Generator">
+
+  <channel id="5.Star.Max.-.Eastern.us"><display-name>5 StarMax</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" /></channel>
+  <channel id="A.and.E.US.-.Eastern.Feed.us"><display-name>A&amp;E</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" /></channel>
+  <channel id="AMC.-.Eastern.Feed.us"><display-name>AMC East</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" /></channel>
+  <channel id="Animal.Planet.US.-.East.us"><display-name>Animal Planet</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" /></channel>
+  <channel id="BET.-.Eastern.Feed.us"><display-name>BET</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" /></channel>
+  <channel id="Boomerang.us"><display-name>Boomerang</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" /></channel>
+  <channel id="Bounce.TV.us"><display-name>Bounce</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" /></channel>
+  <channel id="Big.Ten.Network.us"><display-name>Big Ten Network HD</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" /></channel>
+  <channel id="Buzzr.TV.us"><display-name>Buzzr</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" /></channel>
+  <channel id="Cartoon.Network.USA.-.Eastern.Feed.us"><display-name>CARTOON NETWORK</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" /></channel>
+  <channel id="CBS.Sports.Network.USA.us"><display-name>CBS SPORTS NETWORK</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" /></channel>
+  <channel id="ThrillerMax.-.East.us"><display-name>CINEMAX THRILLERMAX</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png" /></channel>
+  <channel id="Cinemax.-.Eastern.Feed.us"><display-name>CINEMAX EAST</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" /></channel>
+  <channel id="CMT.US.-.Eastern.Feed.us"><display-name>CMT</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" /></channel>
+  <channel id="Comedy.Central.(US).-.Eastern.Feed.us"><display-name>COMEDY CENTRAL</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" /></channel>
+  <channel id="The.Cooking.Channel.us"><display-name>COOKING</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" /></channel>
+  <channel id="Destination.America.us"><display-name>Destination America</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" /></channel>
+  <channel id="Discovery.Channel.(US).-.Eastern.Feed.us"><display-name>Discovery Channel</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" /></channel>
+  <channel id="Investigation.Discovery.USA.-.Eastern.us"><display-name>ID (Investigation Discovery)</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" /></channel>
+  <channel id="Disney.XD.USA.-.Eastern.Feed.us"><display-name>DISNEY XD</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" /></channel>
+  <channel id="E!.Entertainment.USA.-.Eastern.Feed.us"><display-name>E ENTERTAINMENT TELEVISION</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" /></channel>
+  <channel id="ESPN.us"><display-name>ESPN</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" /></channel>
+  <channel id="ESPN2.us"><display-name>ESPN 2</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" /></channel>
+  <channel id="ESPNU.On.Demand.us"><display-name>ESPN U</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" /></channel>
+  <channel id="Food.Network.USA.-.Eastern.Feed.us"><display-name>FOOD NETWORK</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" /></channel>
+  <channel id="FOX.(WNYW).New.York,.NY.us"><display-name>FOX (WNYW)</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" /></channel>
+  <channel id="Freeform.-.East.Feed.us"><display-name>Freeform</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" /></channel>
+  <channel id="Fox.Sports.1.us"><display-name>FS1</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" /></channel>
+  <channel id="Fox.Sports.2.us"><display-name>FS2</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" /></channel>
+  <channel id="FUSE.TV.-.Eastern.feed.us"><display-name>Fuse</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" /></channel>
+  <channel id="FX.Networks.East.Coast.us"><display-name>FX</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" /></channel>
+  <channel id="FXX.USA.-.Eastern.us"><display-name>FXX</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" /></channel>
+  <channel id="Game.Show.Network.-.East.us"><display-name>GAME SHOW NETWORK</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" /></channel>
+  <channel id="Gol.TV.USA.us"><display-name>GOLTV</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/gol-tv-us.png" /></channel>
+  <channel id="Grit.TV.us"><display-name>GRIT TV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" /></channel>
+  <channel id="Hallmark.-.Eastern.Feed.us"><display-name>Hallmark Channel</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" /></channel>
+  <channel id="HBO.-.Eastern.Feed.us"><display-name>HBO</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" /></channel>
+  <channel id="HBO.2.-.Eastern.Feed.us"><display-name>HBO2</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" /></channel>
+  <channel id="HBO.Comedy.HD.-.East.us"><display-name>HBO Comedy</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" /></channel>
+  <channel id="HBO.Family.-.Eastern.Feed.us"><display-name>HBO Family</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" /></channel>
+  <channel id="HBO.Signature.(HBO.3).-.Eastern.us"><display-name>HBO SIGNATURE</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png" /></channel>
+  <channel id="HBO.Zone.HD.-.East.us"><display-name>HBO Zone</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" /></channel>
+  <channel id="HGTV.USA.-.Eastern.Feed.us"><display-name>HGTV</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" /></channel>
+  <channel id="History.Channel.US.-.Eastern.Feed.us"><display-name>History</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" /></channel>
+  <channel id="HLN.us"><display-name>HLN</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" /></channel>
+  <channel id="IFC.HDTV.(East).us"><display-name>IFC</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/ifc-us.png" /></channel>
+  <channel id="Lifetime.Movies.-.East.us"><display-name>LMN</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png" /></channel>
+  <channel id="MavTV.USA.us"><display-name>MAVTV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" /></channel>
+  <channel id="MLB.Network.us"><display-name>MLB Network</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" /></channel>
+  <channel id="MoreMax..Eastern.us"><display-name>CINEMAX MOREMAX</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" /></channel>
+  <channel id="Motor.Trend.HD.us"><display-name>MotorTrend</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" /></channel>
+  <channel id="MSG.(Madison.Square.Gardens).us"><display-name>MSG</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" /></channel>
+  <channel id="MTV.USA.-.Eastern.Feed.us"><display-name>MTV</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" /></channel>
+  <channel id="MTV.Live.HD.us"><display-name>MTV Live</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" /></channel>
+  <channel id="National.Geographic.Wild.us"><display-name>National Geographic Wild</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" /></channel>
+  <channel id="National.Geographic.US.-.Eastern.us"><display-name>National Geographic</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" /></channel>
+  <channel id="New.England.Sports.Network.HDTV.(NESNHD).us"><display-name>NESN</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nesn-us.png" /></channel>
+  <channel id="USA.Network.-.East.Feed.us"><display-name>USA Network East</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" /></channel>
+  <channel id="NFL.Network.us"><display-name>NFL Network</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" /></channel>
+  <channel id="NHL.Network.USA.us"><display-name>NHL Network</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" /></channel>
+  <channel id="Nick.Jr..-.East.us"><display-name>NickJr</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" /></channel>
+  <channel id="Nickelodeon.USA.-.East.Feed.us"><display-name>Nickelodeon</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" /></channel>
+  <channel id="Nicktoons.-.East.us"><display-name>NickToons</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" /></channel>
+  <channel id="Oxygen.-.Eastern.Feed.us"><display-name>Oxygen</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" /></channel>
+  <channel id="Paramount.Network.USA.-.Eastern.Feed.us"><display-name>Paramount Network</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" /></channel>
+  <channel id="ReelzChannel.us"><display-name>ReelzChannel</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" /></channel>
+  <channel id="Revolt.TV.us"><display-name>Revolt</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" /></channel>
+  <channel id="SEC.Network.us"><display-name>SEC Network</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" /></channel>
+  <channel id="Paramount+.with.Showtime.-.Eastern.Feed.us"><display-name>Showtime East</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" /></channel>
+  <channel id="Starz.-.Eastern.us"><display-name>Starz</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" /></channel>
+  <channel id="Starz.In.Black.-.Eastern.us"><display-name>STARZ IN BLACK</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/starz-in-black-us.png" /></channel>
+  <channel id="Starz.Cinema.HD.-.Eastern.us"><display-name>STARZ CINEMA</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/starz-cinema-us.png" /></channel>
+  <channel id="Starz.Comedy.HD.-.Eastern.us"><display-name>Starz Comedy</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" /></channel>
+  <channel id="Starz.Edge.-.Eastern.us"><display-name>Starz Edge</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" /></channel>
+  <channel id="Starz.Encore.Westerns.-.Eastern.us"><display-name>Starz Encore Westerns</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" /></channel>
+  <channel id="Syfy.-.Eastern.Feed.us"><display-name>SYFY</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" /></channel>
+  <channel id="TBS.-.East.us"><display-name>TBS</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" /></channel>
+  <channel id="TNT.-.Eastern.Feed.us"><display-name>TNT</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" /></channel>
+  <channel id="truTV.USA.-.Eastern.us"><display-name>truTV</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" /></channel>
+  <channel id="TV.Land.-.Eastern.us"><display-name>TVLand</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" /></channel>
+  <channel id="Universal.Kids.us"><display-name>UNIVERSAL KIDS</display-name><icon src="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/universal-kids-us.png" /></channel>
+  <channel id="VH1.-.Eastern.Feed.us"><display-name>VH1</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" /></channel>
+  <channel id="VICE.us"><display-name>Vice</display-name><icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" /></channel>
+  <channel id="WE.(Women&apos;s.Entertainment).-.Eastern.us"><display-name>WeTV</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" /></channel>
+  <channel id="WGN.Chicago.(LOCAL).us"><display-name>WGN</display-name><icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" /></channel>
+  <channel id="YES.Network.us"><display-name>YES Network</display-name><icon src="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" /></channel>
+
+  <programme start="20260324120000 +0000" stop="20260324235959 +0000" channel="ESPN.us">
+    <title lang="en">Live Sports &amp; Analysis</title>
+    <desc lang="en">Your 24/7 home for sports news and live events.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+
+  </tv>
